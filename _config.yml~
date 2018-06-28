@@ -104,7 +104,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a math graduate student at the University of Georgia."
   location         : "Athens, GA"
-  email            : "makoto.suwama@gmail.com"
+  email            : "makoto.suwama@uga.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
