@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" #"default".  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default".  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Makoto Suwama"
-title_separator          : "&bull;"
+title                    : #"Makoto Suwama"
+title_separator          : " " #"&bull;"
 name                     : "Makoto Suwama"
 description              : "Website of math graduate student Makoto Suwama."
 url                      : "https://msuwama.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

@@ -2,8 +2,9 @@
 layout: single
 title: Teaching
 ---
-I am not teaching in Spring 2017.
-
+I am teaching 2 sections of Precalculus in Fall 2018.
++ [MATH1113 Precalculus (CRN 29597) TR 9:30am--10:45am](2018F-1113a)
++ [MATH1113 Precalculus (CRN 15353) TR 12:30pm--1:45pm](2018F-1113b)
 
 ## Past Teaching
 In the past, I have taught
