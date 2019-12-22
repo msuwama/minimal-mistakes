@@ -7,7 +7,7 @@ I am interested in algebraic geometry and number theory.
 1. [Notes](/assets/paper/supersingular.pdf) on Noam Elkies' "The existence of infinitely many supersingular primes for every elliptic curve over $$\mathbb{Q}$$" that I wrote for my oral exam.
 
 ## Talks
-6. *Balanced Centrifuge Problem"  
+6. *Balanced Centrifuge Problem*  
    Graduate Student Seminar  
    University of Georgia, Athens, GA, September 2019
    
