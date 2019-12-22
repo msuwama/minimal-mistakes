@@ -3,4 +3,4 @@ layout: posts
 title: Welcome
 ---
 
-I am a third year graduate student at the [University of Georgia](http://www.math.uga.edu/) studying mathematics.
+I am a graduate student at the [University of Georgia](http://www.math.uga.edu/) studying mathematics.
